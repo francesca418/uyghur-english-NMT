@@ -1,8 +1,11 @@
 # CIS 530 Final Project
 
 Authors: Francesca Marini & Efe Ayhan
+
 Spring 2021
+
 Prof. Mark Yatskar
+
 CIS 530: Computational Linguistics
 
 Project Title: Low-Resource Machine Translation of Uyghur
